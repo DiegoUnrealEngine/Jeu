@@ -1,0 +1,308 @@
+# depslib dependency file v1.0
+1286479876 source:c:\users\david\developpement\testsdl\main.cpp
+	"init.h"
+	"scene.h"
+	<SDL/SDL.h>
+
+1286479992 c:\users\david\developpement\testsdl\init.h
+
+1286479762 c:\users\david\developpement\testsdl\scene.h
+	"types.h"
+	<map>
+	<GL/gl.h>
+	<GL/glu.h>
+	<string>
+
+1286479726 c:\users\david\developpement\testsdl\types.h
+
+1286479948 source:c:\users\david\developpement\testsdl\scene.cpp
+	"scene.h"
+	<SDL/SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	"sdlglutils.h"
+
+1286478325 c:\users\david\developpement\testsdl\sdlglutils.h
+	<GL/gl.h>
+	<SDL/SDL.h>
+
+1286478323 source:c:\users\david\developpement\testsdl\sdlglutils.cpp
+	"sdlglutils.h"
+	<SDL/SDL.h>
+	<GL/glu.h>
+
+1286479857 source:c:\users\david\developpement\testsdl\init.cpp
+	"init.h"
+	"configuration.h"
+	<SDL/SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1286479982 c:\users\david\developpement\testsdl\configuration.h
+
+1287357887 source:c:\users\david\developpement\jeu\main.cpp
+	"init.h"
+	"scene.h"
+	<SDL/SDL.h>
+
+1286476392 c:\users\david\developpement\jeu\init.h
+
+1292471426 c:\users\david\developpement\jeu\scene.h
+	"types.h"
+	<map>
+	<GL/gl.h>
+	<GL/glu.h>
+	<string>
+	"objet3DStatique.h"
+	"carte.h"
+	"personnage.h"
+
+1286476126 c:\users\david\developpement\jeu\types.h
+
+1286478323 source:c:\users\david\developpement\jeu\sdlglutils.cpp
+	"sdlglutils.h"
+	<SDL/SDL.h>
+	<GL/glu.h>
+
+1286478325 c:\users\david\developpement\jeu\sdlglutils.h
+	<GL/gl.h>
+	<SDL/SDL.h>
+
+1290042545 source:c:\users\david\developpement\jeu\init.cpp
+	"init.h"
+	"configuration.h"
+	<SDL/SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1290214244 c:\users\david\developpement\jeu\configuration.h
+
+1290613894 source:c:\users\david\developpement\jeu\scene.cpp
+	"scene.h"
+	<SDL/SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	"configuration.h"
+
+1290113676 source:c:\users\david\developpement\jeu\objet3dstatique.cpp
+	"objet3DStatique.h"
+	<fstream>
+
+1290113676 c:\users\david\developpement\jeu\objet3dstatique.h
+	<string>
+	<set>
+	"types.h"
+	<GL/gl.h>
+	<GL/glu.h>
+	"conteneurTextures.h"
+
+1290613534 source:c:\users\david\developpement\jeu\conteneurtextures.cpp
+	"conteneurTextures.h"
+	<SDL/SDL.h>
+
+1287066258 c:\users\david\developpement\jeu\conteneurtextures.h
+	"types.h"
+	<map>
+	<GL/gl.h>
+	<GL/glu.h>
+	<string>
+
+1287789305 source:c:\users\david\developpement\jeu\carte.cpp
+	"carte.h"
+	<SDL/SDL.h>
+
+1287789103 c:\users\david\developpement\jeu\carte.h
+	<set>
+	"types.h"
+	<GL/gl.h>
+	<GL/glu.h>
+	<string>
+	"conteneurTextures.h"
+
+1290119207 c:\users\david\developpement\jeu\personnage.h
+	"objet3DStatique.h"
+	<string>
+
+1290214222 source:c:\users\david\developpement\jeu\personnage.cpp
+	"personnage.h"
+	<math.h>
+
+1290613534 source:c:\users\david\developpement\jeu_tuto_avant_reseau\jeu\conteneurtextures.cpp
+	"conteneurTextures.h"
+	<SDL/SDL.h>
+
+1287066258 c:\users\david\developpement\jeu_tuto_avant_reseau\jeu\conteneurtextures.h
+	"types.h"
+	<map>
+	<GL/gl.h>
+	<GL/glu.h>
+	<string>
+
+1286476126 c:\users\david\developpement\jeu_tuto_avant_reseau\jeu\types.h
+
+1290042545 source:c:\users\david\developpement\jeu_tuto_avant_reseau\jeu\init.cpp
+	"init.h"
+	"configuration.h"
+	<SDL/SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1286476392 c:\users\david\developpement\jeu_tuto_avant_reseau\jeu\init.h
+
+1290214244 c:\users\david\developpement\jeu_tuto_avant_reseau\jeu\configuration.h
+
+1287357887 source:c:\users\david\developpement\jeu_tuto_avant_reseau\jeu\main.cpp
+	"init.h"
+	"scene.h"
+	<SDL/SDL.h>
+
+1292471426 c:\users\david\developpement\jeu_tuto_avant_reseau\jeu\scene.h
+	"types.h"
+	<map>
+	<GL/gl.h>
+	<GL/glu.h>
+	<string>
+	"objet3DStatique.h"
+	"carte.h"
+	"personnage.h"
+
+1290113676 c:\users\david\developpement\jeu_tuto_avant_reseau\jeu\objet3dstatique.h
+	<string>
+	<set>
+	"types.h"
+	<GL/gl.h>
+	<GL/glu.h>
+	"conteneurTextures.h"
+
+1287789103 c:\users\david\developpement\jeu_tuto_avant_reseau\jeu\carte.h
+	<set>
+	"types.h"
+	<GL/gl.h>
+	<GL/glu.h>
+	<string>
+	"conteneurTextures.h"
+
+1290119207 c:\users\david\developpement\jeu_tuto_avant_reseau\jeu\personnage.h
+	"objet3DStatique.h"
+	<string>
+
+1290113676 source:c:\users\david\developpement\jeu_tuto_avant_reseau\jeu\objet3dstatique.cpp
+	"objet3DStatique.h"
+	<fstream>
+
+1295648716 source:c:\users\david\developpement\jeu_tuto_avant_reseau\jeu\personnage.cpp
+	"personnage.h"
+	<math.h>
+
+1295648717 source:c:\users\david\developpement\jeu_tuto_avant_reseau\jeu\scene.cpp
+	"scene.h"
+	<SDL/SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	"configuration.h"
+
+1287789305 source:c:\users\david\developpement\jeu_tuto_avant_reseau\jeu\carte.cpp
+	"carte.h"
+	<SDL/SDL.h>
+
+1561302901 source:d:\video game project\jeu\carte.cpp
+	"carte.h"
+
+1561302699 d:\video game project\jeu\carte.h
+	<vector>
+	<random>
+	"light.h"
+	"perlin.h"
+	"maison.h"
+	<GL/gl.h>
+	<GL/glu.h>
+	<SDL/SDL.h>
+
+1560630397 d:\video game project\jeu\types.h
+
+1561224063 d:\video game project\jeu\conteneurtextures.h
+	"init.h"
+	<map>
+	<string>
+
+1561231031 source:d:\video game project\jeu\conteneurtextures.cpp
+	"conteneurTextures.h"
+
+1561282985 source:d:\video game project\jeu\init.cpp
+	"init.h"
+
+1561054243 d:\video game project\jeu\init.h
+	<SDL/SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1561052588 d:\video game project\jeu\configuration.h
+
+1561227362 source:d:\video game project\jeu\main.cpp
+	"scene.h"
+
+1561232526 d:\video game project\jeu\scene.h
+	"skybox.h"
+	<SDL/SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1560630916 d:\video game project\jeu\objet3dstatique.h
+	<string>
+	<set>
+	"types.h"
+	<GL/gl.h>
+	<GL/glu.h>
+	"conteneurTextures.h"
+
+1561232924 d:\video game project\jeu\personnage.h
+	"carte.h"
+	<vector>
+
+1560687607 source:d:\video game project\jeu\objet3dstatique.cpp
+	"objet3DStatique.h"
+	<fstream>
+
+1561280103 source:d:\video game project\jeu\personnage.cpp
+	"personnage.h"
+
+1561232923 source:d:\video game project\jeu\scene.cpp
+	"scene.h"
+
+1560637375 d:\video game project\jeu\perlin.cpp
+	<cmath>
+
+1561052412 source:d:\video game project\jeu\perlin.cpp
+	<math.h>
+	<array>
+	<iostream>
+	<random>
+
+1561228235 d:\video game project\jeu\light.h
+	<SDL/SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1561891679 source:d:\video game project\jeu\light.cpp
+	"light.h"
+
+1561052413 d:\video game project\jeu\perlin.h
+
+1560710757 source:d:\video game project\jeu\decor.cpp
+
+1561227296 d:\video game project\jeu\skybox.h
+	"personnage.h"
+
+1561283654 source:d:\video game project\jeu\skybox.cpp
+	"skybox.h"
+
+1561220436 d:\video game project\jeu\sdlglutils.h
+	<GL/gl.h>
+	<SDL/SDL.h>
+
+1561302813 d:\video game project\jeu\maison.h
+	"conteneurTextures.h"
+
+1561316329 source:d:\video game project\jeu\maison.cpp
+	"maison.h"
+

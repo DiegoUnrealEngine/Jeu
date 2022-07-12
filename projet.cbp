@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Jeu" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/jeu" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="bin/Debug/" />
+				<Option object_output="obj/Debug/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+				<Linker>
+					<Add option="-lmingw32" />
+					<Add option="-lSDLmain" />
+					<Add option="-lSDL" />
+					<Add option="-lopengl32" />
+					<Add option="-lglu32" />
+					<Add option="-std=c++11" />
+					<Add option="-std=gnu++11" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/testsdl" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="bin/Release/" />
+				<Option object_output="obj/Release/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="carte.cpp" />
+		<Unit filename="carte.h" />
+		<Unit filename="conteneurTextures.cpp" />
+		<Unit filename="conteneurTextures.h" />
+		<Unit filename="init.cpp" />
+		<Unit filename="init.h" />
+		<Unit filename="light.cpp" />
+		<Unit filename="light.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="maison.cpp" />
+		<Unit filename="maison.h" />
+		<Unit filename="perlin.cpp" />
+		<Unit filename="perlin.h" />
+		<Unit filename="personnage.cpp" />
+		<Unit filename="personnage.h" />
+		<Unit filename="scene.cpp" />
+		<Unit filename="scene.h" />
+		<Unit filename="shadow.cpp" />
+		<Unit filename="shadow.h" />
+		<Unit filename="skybox.cpp" />
+		<Unit filename="skybox.h" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+			<envvars />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

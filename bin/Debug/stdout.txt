@@ -1,0 +1,3 @@
+Attention : la largeur de herbe.bmp n'est pas une puissance de 2
+ Attention : la hauteur de herbe.bmp n'est pas une puissance de 2
+ 
